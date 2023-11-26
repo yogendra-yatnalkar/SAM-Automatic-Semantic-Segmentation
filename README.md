@@ -3,4 +3,4 @@ Meta-AI SAM + AMG + Average of Patch-Embedding per instance segment + Clustering
 
 ## Workflow: 
 
-!()[./support-assets/SAM-Automatic-Semantic-Segmentation.png]
+![](./support-assets/SAM-Automatic-Semantic-Segmentation.png)
